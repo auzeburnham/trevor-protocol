@@ -113,5 +113,5 @@ This project is open-source under the MIT License. Use it, remix it, fork it —
 
 ## 🙌 Credits
 
-Built by [Your Name], with massive help from an AI assistant and the unstoppable spirit of **Trevor Lloyd-Jones**.  
+Built by shalimar the clown, with massive help from an AI assistant and the unstoppable spirit of **Trevor Lloyd-Jones**.  
 Inspired by narrative warfare, counterscript theory, and the belief that data can reveal the stories politics is trying to tell.
