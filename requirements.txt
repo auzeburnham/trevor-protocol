@@ -1,0 +1,14 @@
+requests              # For grabbing links from the main candidate page
+beautifulsoup4        # For parsing HTML and extracting <a> tags, text content
+selenium             # For rendering JavaScript-heavy candidate profile pages
+spacy                # For NLP-based tagging and potential entity extraction
+pandas               # (Optional) For handling CSV exports or analytics summaries
+
+If you later add topic modeling or advanced NLP, you might also install:
+
+scikit-learn         # For clustering, keyword analysis, topic modeling (LDA)
+nltk                 # Lightweight NLP tools (good for keyword extraction)
+
+Once it’s saved as requirements.txt, anyone can install all your project dependencies by running:
+
+pip install -r requirements.txt
